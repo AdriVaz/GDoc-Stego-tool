@@ -1,0 +1,8 @@
+############### FOR GOOGLE API ###############
+google-api-python-client
+
+############### FOR OAUTH ###############
+oauth2client
+
+############### FOR CRYPTO ###############
+pycryptodome

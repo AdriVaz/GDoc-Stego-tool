@@ -1,0 +1,1 @@
+The code works well and fast with small files like this one
